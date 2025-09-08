@@ -5,9 +5,9 @@
 #include "DHT.h"
 
 // ======== EDIT ========
-const char* WIFI_SSID   = "YOUR_WIFI_SSID";
-const char* WIFI_PASS   = "YOUR_WIFI_PASSWORD";
-const char* VERCEL_HOST = "your-app.vercel.app";
+const char* WIFI_SSID   = "Nammonnook_2.4G";
+const char* WIFI_PASS   = "Nammonjai2547";
+const char* VERCEL_HOST = "esp32-humid.vercel.app";
 const char* INGEST_KEY  = "my-secret-123";
 // ======================
 
